@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Sal y Pimienta",
+    "tagline": "Sabor auténtico en el corazón de Dénia",
+    "description": "Restaurante con encanto donde la tradición mediterránea se fusiona con toques modernos. Disfruta de una experiencia culinaria inolvidable en un ambiente acogedor y selecto.",
+    "phone": "+34 628 05 83 05",
+    "address": "Carrer de les Barques, 3, 03700 Dénia, Alicante, España",
+    "email": "reservas@salypimientadenia.es",
+    "rating": 4.9,
+    "reviewCount": 36,
+    "hours": ["Monday: Closed","Tuesday: 12:00 – 4:00 PM, 8:00 – 11:30 PM","Wednesday: 12:00 – 4:00 PM, 8:00 – 11:30 PM","Thursday: 12:00 – 4:00 PM, 8:00 – 11:30 PM","Friday: 12:00 – 4:00 PM, 8:00 – 11:30 PM","Saturday: 12:00 – 4:00 PM, 8:00 – 11:30 PM","Sunday: 12:00 – 5:00 PM"]
+  },
+  "theme": {
+    "primary": "#2D3436",
+    "secondary": "#1A1A1A",
+    "accent": "#D4AF37",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "El alma de Dénia servida en tu plato",
+    "subheadline": "Descubre una cocina apasionada en Sal y Pimienta. Ingredientes frescos, técnicas impecables y un ambiente diseñado para desconectar y disfrutar.",
+    "cta1": { "text": "Reservar Mesa", "href": "#contact" },
+    "cta2": { "text": "Nuestra Carta", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJD0N5aqobnhIRQG3ixk2E6AE/photos/ATCDNfUvt6kQJir6pouQNS77hTnFTtyFmGgYDDX15ZpMe3EEa-P8hYEiMVAOoobkkAUtYbJzXBKIfuJN7gSv2QN89ho1ytz9VcRFPOR0zuk57Ckm24Ba9r24cbPLyK8N2LNEwfQgirPL19D6JNI2M9VgWZ1YobhQzqenLpSnxV05rhaFEamthmZMSz_muTStVG2GhhvIHW2ae01pA1Tdt4VE4trRaUaYXPrnhsquX6lzrLb4kV-MbaWpzYGXZ4fNlNpsSSbVs1hdB-vUllT8UqO0oWBWDCe70RL7ScFm36XByOtBYhhw-L2X4liqYB4PfaDJRecb--5rFLrptjNvxSWcC38774CgGRQAN4DD68rq_xkMj3Pi0-m3TWDK-mPtXg39UdnjEmh6kxbyKmPAirAS5oG8msBUskieokfVpKfR8n9Y2BvLy0imhWdsFpD0dvsa/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🍷", "title": "Cena de Autor", "description": "Platos creativos elaborados con producto local de temporada. Cada bocado es un viaje por los sabores de Alicante." },
+    { "icon": "🍽️", "title": "Menú Diario", "description": "La mejor opción para un almuerzo gourmet en Dénia. Calidad superior a un precio inmejorable en nuestro comedor." },
+    { "icon": "🥂", "title": "Eventos Privados", "description": "Celebra momentos especiales en nuestro espacio exclusivo. Adaptamos nuestro servicio para que tu evento sea perfecto." },
+    { "icon": "🍹", "title": "Bar de Copas", "description": "Relájate con nuestra selección de vinos premium y cócteles de autor. El lugar ideal para terminar tu jornada." }
+  ],
+  "about": {
+    "title": "Nuestra Pasión por la Gastronomía",
+    "text": "En Sal y Pimienta, entendemos que comer es mucho más que alimentarse; es una forma de expresión. Ubicados en el corazón de Dénia, nos esforzamos cada día por elevar la cocina mediterránea a un nivel superior, priorizando siempre la frescura de nuestros productos.\n\nContamos con una valoración de 4.9 estrellas gracias a una atención impecable y una carta diseñada por expertos. Nuestra filosofía es simple: autenticidad, calidez y un sabor que te invita a volver siempre.",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJD0N5aqobnhIRQG3ixk2E6AE/photos/ATCDNfUvt6kQJir6pouQNS77hTnFTtyFmGgYDDX15ZpMe3EEa-P8hYEiMVAOoobkkAUtYbJzXBKIfuJN7gSv2QN89ho1ytz9VcRFPOR0zuk57Ckm24Ba9r24cbPLyK8N2LNEwfQgirPL19D6JNI2M9VgWZ1YobhQzqenLpSnxV05rhaFEamthmZMSz_muTStVG2GhhvIHW2ae01pA1Tdt4VE4trRaUaYXPrnhsquX6lzrLb4kV-MbaWpzYGXZ4fNlNpsSSbVs1hdB-vUllT8UqO0oWBWDCe70RL7ScFm36XByOtBYhhw-L2X4liqYB4PfaDJRecb--5rFLrptjNvxSWcC38774CgGRQAN4DD68rq_xkMj3Pi0-m3TWDK-mPtXg39UdnjEmh6kxbyKmPAirAS5oG8msBUskieokfVpKfR8n9Y2BvLy0imhWdsFpD0dvsa/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Comedor interior del restaurante" },
+    { "url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80", "alt": "Plato gourmet preparado" },
+    { "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80", "alt": "Chef trabajando en cocina" },
+    { "url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=1200&q=80", "alt": "Detalle de los ingredientes" }
+  ],
+  "testimonials": [
+    { "name": "Marta García", "stars": 5, "text": "Una experiencia increíble. La atención al cliente es de otro nivel y el sabor de los platos es excepcional." },
+    { "name": "Carlos Ruiz", "stars": 5, "text": "Sin duda, el mejor lugar en Dénia. Se nota el cariño en cada plato que sirven." },
+    { "name": "Elena Torres", "stars": 5, "text": "Ambiente acogedor y cocina de mercado deliciosa. Volveré pronto sin falta." }
+  ],
+  "contact": {
+    "title": "Reserva tu mesa hoy mismo",
+    "subtitle": "No te quedes sin sitio en el restaurante de moda de Dénia. Haz tu reserva por WhatsApp.",
+    "whatsappNumber": "+34 628 05 83 05",
+    "showMap": true,
+    "mapQuery": "Sal y Pimienta Carrer de les Barques, 3, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Sal y Pimienta"
+  }
+}
